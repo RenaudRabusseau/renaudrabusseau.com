@@ -1,0 +1,66 @@
+[nav_home]
+other = "Home"
+
+[nav_about]
+other = "About"
+
+[nav_blog]
+other = "Blog"
+
+[nav_projects]
+other = "Projects"
+
+[nav_cv]
+other = "CV"
+
+[read_more]
+other = "Read more"
+
+[back_to_blog]
+other = "Back to blog"
+
+[download_cv]
+other = "Download CV"
+
+[minutes_read]
+one = "{{ .Count }} min read"
+other = "{{ .Count }} min read"
+
+[written_in]
+other = "Written in English"
+
+[also_available]
+other = "Also available in:"
+
+[recent_posts]
+other = "Recent Posts"
+
+[all_posts]
+other = "All Posts"
+
+[tagged_with]
+other = "Tagged with"
+
+[no_posts]
+other = "No posts yet."
+
+[projects_title]
+other = "Projects"
+
+[view_on_github]
+other = "View on GitHub"
+
+[cv_intro]
+other = "Multiple CV versions are available for different professional contexts."
+
+[footer_text]
+other = "Built with Hugo. No frameworks were harmed in the making of this site."
+
+[hero_intro]
+other = "Former professional translator turned electronics engineering student. Bridging languages, systems, and disciplines."
+
+[posted_on]
+other = "Posted on"
+
+[reading_time]
+other = "min read"

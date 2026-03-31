@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Renaud Rabusseau</title>
+    <link>https://renaudrabusseau.com/fr/</link>
+    <description>Recent content in Accueil on Renaud Rabusseau</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://renaudrabusseau.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personne ne pilote, tout le monde accélère</title>
+      <link>https://renaudrabusseau.com/fr/blog/nobodys-steering/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://renaudrabusseau.com/fr/blog/nobodys-steering/</guid>
+      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent structurellement la vitesse au détriment de la réflexion, et ce que cela signifie pour l&amp;rsquo;avenir de l&amp;rsquo;espèce.</description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>https://renaudrabusseau.com/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renaudrabusseau.com/fr/about/</guid>
+      <description>&lt;h2 id=&#34;en-bref&#34;&gt;En bref&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai 37 ans. J&amp;rsquo;ai été traducteur professionnel pendant quinze ans. Aujourd&amp;rsquo;hui, je me forme en électronique et cybersécurité industrielle. L&amp;rsquo;IA a transformé mon secteur, et plutôt que de m&amp;rsquo;accrocher à un métier en mutation, j&amp;rsquo;ai choisi d&amp;rsquo;arrêter de décrire les systèmes pour apprendre à les construire.&lt;/p&gt;&#xA;&lt;p&gt;Ce site est l&amp;rsquo;endroit où je réfléchis à voix haute sur ce qui me tient éveillé la nuit : la façon dont la technologie transforme nos sociétés, la direction que prend l&amp;rsquo;économie mondiale, ce que signifie reconstruire une carrière à mi-parcours, et pourquoi la curiosité est peut-être la compétence la plus sous-estimée du XXIe siècle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

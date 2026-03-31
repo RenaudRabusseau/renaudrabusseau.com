@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Renaud Rabusseau</title>
+    <link>http://localhost:1313/es/about/</link>
+    <description>Recent content in Abouts on Renaud Rabusseau</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/es/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/es/about/about_index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/about/about_index/</guid>
+      <description>&lt;h2 id=&#34;en-pocas-palabras&#34;&gt;En pocas palabras&lt;/h2&gt;&#xA;&lt;p&gt;Tengo 37 años. Fui traductor profesional durante quince años. Hoy me estoy formando en electrónica y ciberseguridad industrial. La IA transformó mi sector, y en lugar de aferrarme a una profesión en plena mutación, decidí dejar de describir los sistemas para aprender a construirlos.&lt;/p&gt;&#xA;&lt;p&gt;Este sitio es donde pienso en voz alta sobre lo que me quita el sueño: cómo la tecnología transforma nuestras sociedades, hacia dónde se dirige la economía mundial, qué significa reconstruir una carrera a mitad de camino, y por qué la curiosidad es quizás la habilidad más subestimada del siglo XXI.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="page-list">
+  <header class="page-header">
+    <h1>{{ i18n "tagged_with" }}: {{ .Title }}</h1>
+  </header>
+
+  <div class="articles-list">
+    {{ range .Pages }}
+      {{ partial "article-card.html" . }}
+    {{ else }}
+      <p>{{ i18n "no_posts" }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-content">
+    <div class="hero-portrait">
+      <img src="/images/profile.jpg" alt="Renaud Rabusseau" width="280" height="280">
+    </div>
+    <h1 class="hero-name">Renaud Rabusseau</h1>
+    <p class="hero-tagline">{{ .Site.Language.Params.description }}<span class="cursor">|</span></p>
+    <p class="hero-intro">{{ i18n "hero_intro" }}</p>
+  </div>
+</section>
+
+<section class="home-section">
+  <h2 class="section-title">{{ i18n "recent_posts" }}</h2>
+  <div class="articles-list">
+    {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+      {{ partial "article-card.html" . }}
+    {{ else }}
+      <p>{{ i18n "no_posts" }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

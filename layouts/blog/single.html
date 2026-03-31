@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article class="blog-post">
+  <header class="blog-post-header">
+    <div class="blog-post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ i18n "posted_on" }} {{ .Date.Format "January 2, 2006" }}</time>
+      <span class="separator">·</span>
+      <span>{{ math.Round (div (countwords .Content) 200.0) }} {{ i18n "reading_time" }}</span>
+    </div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.tags }}
+      <div class="blog-post-tags">
+        {{ range . }}
+          <a href="{{ relLangURL (printf "tags/%s/" (urlize .)) }}" class="tag">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </header>
+
+  <div class="blog-post-lang-notice">
+    <p>{{ i18n "written_in" }}</p>
+    {{ if .Translations }}
+      <p>{{ i18n "also_available" }}
+        {{ range .Translations }}
+          <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  </div>
+
+  <div class="blog-post-content prose">
+    {{ .Content }}
+  </div>
+
+  <footer class="blog-post-footer">
+    <a href="{{ relLangURL "blog/" }}" class="back-link">← {{ i18n "back_to_blog" }}</a>
+  </footer>
+</article>
+{{ end }}

@@ -1,0 +1,16 @@
+<div class="project-card fade-in">
+  <h3 class="project-title">{{ .title }}</h3>
+  <p class="project-description">{{ .description }}</p>
+  {{ with .tech }}
+    <div class="project-tech">
+      {{ range . }}
+        <span class="tech-tag">{{ . }}</span>
+      {{ end }}
+    </div>
+  {{ end }}
+  {{ with .github }}
+    <a href="{{ . }}" class="project-link" target="_blank" rel="noopener noreferrer">
+      {{ i18n "view_on_github" $ }} →
+    </a>
+  {{ end }}
+</div>

@@ -1,0 +1,39 @@
+<header class="site-header">
+  <nav class="nav-container">
+    <a href="{{ relLangURL "/" }}" class="site-logo">RR</a>
+
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
+
+    <div class="nav-menu">
+      <ul class="nav-links">
+        <li><a href="{{ relLangURL "/" }}"{{ if .IsHome }} class="active"{{ end }}>{{ i18n "nav_home" }}</a></li>
+        <li><a href="{{ relLangURL "about/" }}"{{ if eq .Section "about" }} class="active"{{ end }}>{{ i18n "nav_about" }}</a></li>
+        <li><a href="{{ relLangURL "blog/" }}"{{ if eq .Section "blog" }} class="active"{{ end }}>{{ i18n "nav_blog" }}</a></li>
+        <li><a href="{{ relLangURL "projects/" }}"{{ if eq .Section "projects" }} class="active"{{ end }}>{{ i18n "nav_projects" }}</a></li>
+        <li><a href="{{ relLangURL "cv/" }}"{{ if eq .Section "cv" }} class="active"{{ end }}>{{ i18n "nav_cv" }}</a></li>
+      </ul>
+
+      <div class="lang-switcher">
+        {{ if .IsTranslated }}
+          {{ range .AllTranslations }}
+            <a href="{{ .RelPermalink }}"
+               class="lang-link{{ if eq .Lang $.Lang }} active{{ end }}"
+               hreflang="{{ .Lang }}">
+              {{- .Language.LanguageName -}}
+            </a>
+          {{ end }}
+        {{ else }}
+          {{ range .Site.Home.AllTranslations }}
+            <a href="{{ .RelPermalink }}"
+               class="lang-link{{ if eq .Lang $.Lang }} active{{ end }}"
+               hreflang="{{ .Lang }}">
+              {{- .Language.LanguageName -}}
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </nav>
+</header>

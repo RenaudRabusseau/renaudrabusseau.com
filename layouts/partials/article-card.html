@@ -1,0 +1,19 @@
+<article class="article-card fade-in">
+  <div class="article-meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    <span class="article-reading-time">{{ math.Round (div (countwords .Content) 200.0) }} {{ i18n "reading_time" }}</span>
+  </div>
+  <h2 class="article-title">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h2>
+  {{ with .Summary }}
+    <p class="article-excerpt">{{ . | plainify | truncate 150 }}</p>
+  {{ end }}
+  {{ with .Params.tags }}
+    <div class="article-tags">
+      {{ range . }}
+        <a href="{{ relLangURL (printf "tags/%s/" (urlize .)) }}" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
+</article>

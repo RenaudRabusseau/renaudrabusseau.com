@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="page-list">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="page-content prose">{{ . }}</div>
+    {{ end }}
+  </header>
+
+  {{ if eq .Section "blog" }}
+    <div class="articles-list">
+      {{ range .Pages }}
+        {{ partial "article-card.html" . }}
+      {{ else }}
+        <p>{{ i18n "no_posts" }}</p>
+      {{ end }}
+    </div>
+  {{ else }}
+    <div class="page-content prose">
+      {{ .Content }}
+    </div>
+  {{ end }}
+</section>
+{{ end }}

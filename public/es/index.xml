@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicio on Renaud Rabusseau</title>
+    <link>https://renaudrabusseau.com/es/</link>
+    <description>Recent content in Inicio on Renaud Rabusseau</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://renaudrabusseau.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nadie pilota, todos aceleran</title>
+      <link>https://renaudrabusseau.com/es/blog/nobodys-steering/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://renaudrabusseau.com/es/blog/nobodys-steering/</guid>
+      <description>La paradoja de Fermi como lente para entender la carrera de la IA. Por qué los sistemas competitivos recompensan estructuralmente la velocidad por encima de la reflexión, y qué significa esto para el futuro de la especie.</description>
+    </item>
+    <item>
+      <title>Sobre mí</title>
+      <link>https://renaudrabusseau.com/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renaudrabusseau.com/es/about/</guid>
+      <description>&lt;h2 id=&#34;en-pocas-palabras&#34;&gt;En pocas palabras&lt;/h2&gt;&#xA;&lt;p&gt;Tengo 37 años. Fui traductor profesional durante quince años. Hoy me estoy formando en electrónica y ciberseguridad industrial. La IA transformó mi sector, y en lugar de aferrarme a una profesión en plena mutación, decidí dejar de describir los sistemas para aprender a construirlos.&lt;/p&gt;&#xA;&lt;p&gt;Este sitio es donde pienso en voz alta sobre lo que me quita el sueño: cómo la tecnología transforma nuestras sociedades, hacia dónde se dirige la economía mundial, qué significa reconstruir una carrera a mitad de camino, y por qué la curiosidad es quizás la habilidad más subestimada del siglo XXI.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

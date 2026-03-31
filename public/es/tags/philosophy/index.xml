@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Renaud Rabusseau</title>
+    <link>https://renaudrabusseau.com/es/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Renaud Rabusseau</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://renaudrabusseau.com/es/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Gran Filtro somos nosotros: IA, capitalismo y el problema de coordinación</title>
+      <link>https://renaudrabusseau.com/es/blog/great-filter/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://renaudrabusseau.com/es/blog/great-filter/</guid>
+      <description>¿Y si el Gran Filtro no fuera una barrera tecnológica sino un fallo de coordinación? Una reflexión sobre el desarrollo de la IA, los incentivos del mercado y la acción colectiva.</description>
+    </item>
+  </channel>
+</rss>

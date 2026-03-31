@@ -1,0 +1,66 @@
+[nav_home]
+other = "Accueil"
+
+[nav_about]
+other = "À propos"
+
+[nav_blog]
+other = "Blog"
+
+[nav_projects]
+other = "Projets"
+
+[nav_cv]
+other = "CV"
+
+[read_more]
+other = "Lire la suite"
+
+[back_to_blog]
+other = "Retour au blog"
+
+[download_cv]
+other = "Télécharger le CV"
+
+[minutes_read]
+one = "{{ .Count }} min de lecture"
+other = "{{ .Count }} min de lecture"
+
+[written_in]
+other = "Écrit en français"
+
+[also_available]
+other = "Également disponible en :"
+
+[recent_posts]
+other = "Articles récents"
+
+[all_posts]
+other = "Tous les articles"
+
+[tagged_with]
+other = "Tagué avec"
+
+[no_posts]
+other = "Aucun article pour le moment."
+
+[projects_title]
+other = "Projets"
+
+[view_on_github]
+other = "Voir sur GitHub"
+
+[cv_intro]
+other = "Plusieurs versions du CV sont disponibles selon le contexte professionnel."
+
+[footer_text]
+other = "Construit avec Hugo. Aucun framework n'a été maltraité lors de la création de ce site."
+
+[hero_intro]
+other = "Ancien traducteur professionnel reconverti en étudiant en ingénierie électronique. Un pont entre les langues, les systèmes et les disciplines."
+
+[posted_on]
+other = "Publié le"
+
+[reading_time]
+other = "min de lecture"
