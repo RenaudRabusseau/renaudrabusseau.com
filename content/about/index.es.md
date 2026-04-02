@@ -13,38 +13,38 @@ facts:
 
 ## En pocas palabras
 
-Tengo 37 años. Fui traductor profesional durante quince años. Hoy me estoy formando en electrónica y ciberseguridad industrial. La IA transformó mi sector, y en lugar de aferrarme a una profesión en plena mutación, decidí dejar de describir los sistemas para aprender a construirlos.
+Antiguo traductor/intérprete profesional, actualmente me estoy reconvirtiendo en ingeniería electrónica con especialización en ciberseguridad. A los 37 años, tras quince años traduciendo documentos técnicos en tres idiomas, la inteligencia artificial transformó mi oficio y decidí dejar de describir los sistemas para empezar a construirlos.
 
-Este sitio es donde pienso en voz alta sobre lo que me quita el sueño: cómo la tecnología transforma nuestras sociedades, hacia dónde se dirige la economía mundial, qué significa reconstruir una carrera a mitad de camino, y por qué la curiosidad es quizás la habilidad más subestimada del siglo XXI.
+Este sitio es un escaparate pero también el lugar donde reflexiono en voz alta sobre los temas que me quitan el sueño: cómo la tecnología transforma nuestras sociedades, qué dirección toma la economía mundial, cómo reconstruir una carrera partiendo de cero a mitad de la vida, y por qué mi curiosidad es quizás mi mayor baza en este inicio de siglo XXI.
 
 ## La versión larga
 
-Crecí en una familia obrera en el medio rural, cerca de Tours, Francia. Mis padres me dieron algo inestimable: la libertad y el apoyo necesarios para seguir mi curiosidad adondequiera que me llevara. Ese regalo lo determinó todo desde entonces.
+Hijo de agricultor y de secretaria médica, crecí en una familia obrera cerca de Tours, Francia. Mis padres me dieron un regalo inestimable: el amor, la libertad y el apoyo necesarios para dejar rienda suelta a mi curiosidad y a mis ganas, adondequiera que me llevaran. Ese regalo moldeó el resto de mi vida, pero sobre todo al adulto en el que me he convertido.
 
-Durante quince años trabajé como traductor e intérprete independiente, trilingüe en francés, inglés y español. Traduje manuales técnicos, contratos legales, documentos médicos y especificaciones de ingeniería. La traducción, contrariamente a lo que la mayoría de la gente supone, no consiste en convertir palabras de un idioma a otro. Es comprender lo que alguien quiere decir dentro de un marco conceptual y reconstruir fielmente ese significado en un marco completamente diferente. Te enseña a pensar en sistemas, a percibir lo implícito y a respetar la distancia entre la intención y la expresión.
+Durante quince años trabajé como traductor e intérprete independiente (trilingüe francés, inglés y español). Traduje manuales técnicos, contratos legales, documentos médicos y pliegos de condiciones industriales. Contrariamente a lo que la mayoría imagina, la traducción no se resume a convertir palabras de un idioma a otro. Es mucho más que eso: se trata de comprender lo que alguien quiere decir dentro de un marco conceptual dado, y luego reconstruir fielmente el sentido y el contenido en un marco completamente diferente. Este oficio enseña a razonar en sistemas, a percibir lo implícito y a respetar la distancia entre intención y expresión.
 
-Cuando los grandes modelos de lenguaje comenzaron a transformar la industria de la traducción, vi la trayectoria con claridad. En lugar de competir con herramientas que solo iban a mejorar, elegí girar hacia un campo donde la presencia física, la comprensión del hardware y el juicio humano no se pueden automatizar: la ciberseguridad industrial.
+Cuando los grandes modelos de lenguaje empezaron a transformar el sector de la traducción, tuve que aceptar la evidencia y cambiar de rumbo (me habría gustado darme cuenta un poco antes, la verdad)... En lugar de competir con herramientas en perpetua mejora, elegí orientarme hacia un campo donde la presencia física, la comprensión del hardware y el juicio humano no pueden automatizarse: la ciberseguridad industrial.
 
 ## Lo que estoy construyendo
 
-Actualmente estudio un BTS CIEL (Ciberseguridad, Informática y redes, Electrónica) con especialización en ciberseguridad. Mi objetivo es la seguridad de los sistemas de control industrial: los autómatas programables, las redes SCADA y la tecnología operacional que hace funcionar las centrales eléctricas, las plantas de tratamiento de aguas, las líneas de producción farmacéutica y las infraestructuras críticas.
+Actualmente preparo un BTS CIEL (Ciberseguridad, Informática y redes, Electrónica) con especialización en ciberseguridad. Mi objetivo es la seguridad de los sistemas de control industrial: los autómatas programables, las redes SCADA y la tecnología operacional que hace funcionar las centrales eléctricas, las plantas de tratamiento de aguas, las líneas de producción farmacéutica y las infraestructuras críticas que son la columna vertebral de nuestras sociedades.
 
-Es un campo con una escasez aguda de talento en toda Europa, agravada por la directiva NIS 2 que obliga a miles de organizaciones a asegurar sus sistemas industriales. Los perfiles capaces de tender puentes entre la seguridad IT y la tecnología operacional, de leer tanto una captura de paquetes como un esquema de cableado, de comunicar sus conclusiones en varios idiomas a equipos multinacionales, son extraordinariamente escasos. Ese es el perfil que estoy construyendo.
+Es un campo con una grave escasez de talento a escala europea, una situación agravada por la directiva NIS 2 que obliga a miles de organizaciones a asegurar sus sistemas industriales. Los perfiles capaces de tender puentes entre seguridad informática y tecnología operacional, de leer tanto una captura de paquetes como un esquema de cableado y de comunicar sus conclusiones en varios idiomas a equipos multinacionales son relativamente escasos, y por eso he decidido avanzar hacia ese perfil.
 
-## La otra mitad
+## Mi otra faceta
 
-Soy músico. No como hobby, sino como parte esencial de quien soy. Toco varios instrumentos y he girado internacionalmente con bandas, tocando más de sesenta conciertos al año durante los últimos tres años. La música es lo único que silencia mi cerebro cuando nada más lo consigue, y aquello a lo que vuelvo una y otra vez a lo largo de mi vida.
+La música forma parte de mí. No como un pasatiempo, sino como algo esencial. Toco varios instrumentos y he girado internacionalmente con varios grupos, a razón de más de sesenta conciertos al año durante los últimos tres años. Es inseparable de mi vida, siempre acabo volviendo a ella de una manera u otra.
 
-## Cómo pienso
+## Mi forma de pensar
 
-Soy naturalmente transdisciplinario. Navego entre la electrónica, el software, la geopolítica, la filosofía y la economía sin sentir que cambio de tema, porque para mí son todos el mismo tema visto desde ángulos diferentes. Una conversación sobre la deuda estadounidense me lleva a pensar en la paradoja de Fermi. Una discusión sobre Collapse OS me hace reconsiderar lo que entendemos por infraestructura. Un problema de traducción ilumina una vulnerabilidad en ciberseguridad.
+Siempre me ha gustado saltar de un tema a otro, de una pasión a otra, y mariposear intelectualmente al ritmo de mis ganas. Paso de la electrónica al software, de la geopolítica a la filosofía, de la economía al póker sin tener la impresión de cambiar de tema, porque para mí todos los temas están interconectados. Una conversación sobre la deuda estadounidense me lleva a reflexionar sobre la paradoja de Fermi. Una discusión sobre Collapse OS me hace reconsiderar lo que entendemos por infraestructura. Un problema de traducción ilumina una vulnerabilidad en ciberseguridad.
 
-Este sitio existe porque creo que esa forma de pensar, la que conecta en vez de especializar, tiene un valor creciente en un mundo donde la IA gestiona lo rutinario y los humanos son necesarios para el juicio, la integración y la producción de sentido.
+Este sitio existe porque creo que esta forma de pensar, la que privilegia una visión holística por encima de una especialización desenfrenada, tiene cada vez más valor en un mundo donde la IA gestiona la rutina y donde la capacidad de juicio y de síntesis del ser humano se vuelve cada vez más decisiva.
 
 ## Lo que me importa
 
-Me importa construir cosas que funcionen. Me importa entender cómo fallan los sistemas. Me importa la honestidad en la comunicación, un valor que la traducción te enseña a apreciar profundamente. Me importa dejar el mundo un poco mejor de como lo encontré, aunque "un poco" sea el techo realista para cualquier individuo.
+Tengo muy presente la necesidad de comprender cómo funcionan los sistemas a gran escala, de ser capaz de apropiarme de ellos y de no dejar zonas de sombra (algo que la traducción enseña a valorar profundamente). También me mueve una profunda voluntad de dejar el mundo un poquito mejor de como lo encontré. No es gran cosa, pero probablemente sea lo mejor que se puede hacer como individuo.
 
-Tengo miedo por la humanidad. Intento vivir de una manera que justifique el optimismo a pesar de todo.
+Aunque el futuro de la humanidad me inquieta entre progreso tecnológico y urgencia climática, intento mantener el optimismo y seguir creyendo que el ser humano es capaz de lo mejor antes de ser capaz de lo peor.
 
-Si algo de esto resuena contigo, el blog es donde profundizo. Si eres un empleador o una escuela de ingeniería, la sección CV tiene lo que necesitas. Si simplemente quieres conversar, puedes encontrarme en las plataformas que aparecen más abajo.
+Si todo esto te resuena, el blog alojado en este sitio es donde profundizo en mis reflexiones y descubrimientos. Si eres un empleador o una escuela de ingeniería, la sección CV tiene todo lo que necesitas. Si simplemente quieres charlar, me encontrarás en cualquier plataforma buscando mi nombre.

@@ -1,14 +1,14 @@
 ---
-title: "S'adapter ou mourir : se reconstruire à 37 ans face à l'IA"
+title: "S'adapter ou mourir : récit d'une reconversion à 37 ans"
 date: 2026-04-02
 slug: "adapt-or-die"
 tags: ["carrière", "IA", "cybersécurité", "technologie"]
 summary: "Quand l'IA ne menace plus seulement votre métier mais le détruit pour de bon. Récit d'un traducteur technique qui a vu sa profession se dissoudre sous ses yeux et qui a choisi de tout reconstruire."
 ---
 
-J'étais bon dans mon métier. Pendant quinze ans, j'ai travaillé comme traducteur et interprète indépendant, trilingue français-anglais-espagnol. J'ai traduit des manuels techniques pour Syntegon, de la documentation automobile pour Aston Martin, des guides Google Cloud, des spécifications industrielles pour Siemens. J'ai fait de l'interprétation simultanée en conférence pour la Fondation Wikimedia. J'étais rapide, précis, fiable. Mes clients revenaient. Je vivais correctement de ce travail.
+Pendant quinze ans, j'ai travaillé comme traducteur et interprète indépendant, trilingue français-anglais-espagnol. J'aimais mon métier et j'étais plutôt bon... J'ai traduit des manuels techniques pour Syntegon, des communiqués de presse pour Aston Martin, des docs logicielles pour Google Cloud Platform, des spécifications industrielles pour Siemens. J'ai même fait de l'interprétation simultanée en conférence pour la Fondation Wikimedia à plusieurs reprises, une expérience incroyable dont je ne suis pas peu fier. J'étais rapide, précis et fiable, mes clients revenaient, je gagnais bien ma vie...
 
-Et puis le sol s'est mis à bouger.
+Mais tout ça, c'était avant le drame...
 
 ## Comment un métier meurt
 
