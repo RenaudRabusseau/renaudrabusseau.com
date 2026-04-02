@@ -27,19 +27,19 @@ enableRobotsTXT = true
     weight = 1
     title = "Renaud Rabusseau"
     [languages.en.params]
-      description = "Electronics Engineer | Cybersecurity | Former Translator | Systems Thinker"
+      description = "Electronics | Cybersecurity | Linguistics | Systems Thinking"
   [languages.fr]
     languageName = "FR"
     weight = 2
     title = "Renaud Rabusseau"
     [languages.fr.params]
-      description = "Ingénieur Électronique | Cybersécurité | Ancien Traducteur | Penseur Systémique"
+      description = "Électronique | Cybersécurité | Linguistique | Pensée systémique"
   [languages.es]
     languageName = "ES"
     weight = 3
     title = "Renaud Rabusseau"
     [languages.es.params]
-      description = "Ingeniero Electrónico | Ciberseguridad | Ex Traductor | Pensador Sistémico"
+      description = "Electrónica | Ciberseguridad | Lingüística | Pensamiento sistémico"
 
 [menus]
   [[menus.main]]
