@@ -62,6 +62,7 @@ body {
   background-color: var(--bg-primary);
   color: var(--text-primary);
   line-height: 1.7;
+  text-align: justify;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
