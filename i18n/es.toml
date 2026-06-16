@@ -7,9 +7,6 @@ other = "Sobre mí"
 [nav_blog]
 other = "Blog"
 
-[nav_projects]
-other = "Proyectos"
-
 [read_more]
 other = "Leer más"
 
@@ -37,12 +34,6 @@ other = "Etiquetado con"
 
 [no_posts]
 other = "No hay artículos todavía."
-
-[projects_title]
-other = "Proyectos"
-
-[view_on_github]
-other = "Ver en GitHub"
 
 [footer_text]
 other = "Hecho con Hugo. Ningún framework fue dañado en la creación de este sitio."

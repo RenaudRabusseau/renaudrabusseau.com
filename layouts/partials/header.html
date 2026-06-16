@@ -11,7 +11,6 @@
         <li><a href="{{ relLangURL "/" }}"{{ if .IsHome }} class="active"{{ end }}>{{ i18n "nav_home" }}</a></li>
         <li><a href="{{ relLangURL "about/" }}"{{ if eq .Section "about" }} class="active"{{ end }}>{{ i18n "nav_about" }}</a></li>
         <li><a href="{{ relLangURL "blog/" }}"{{ if eq .Section "blog" }} class="active"{{ end }}>{{ i18n "nav_blog" }}</a></li>
-        <li><a href="{{ relLangURL "projects/" }}"{{ if eq .Section "projects" }} class="active"{{ end }}>{{ i18n "nav_projects" }}</a></li>
       </ul>
 
       <div class="lang-switcher">

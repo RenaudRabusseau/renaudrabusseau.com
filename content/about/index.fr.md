@@ -1,14 +1,5 @@
 ---
 title: "À propos"
-facts:
-  - label: "Localisation"
-    value: "Orléans, France"
-  - label: "Langues"
-    value: "EN / FR / ES / JP"
-  - label: "Études"
-    value: "Licence (Mathématiques / Économie)"
-  - label: "Centres d'intérêt"
-    value: "Économie, Cybersécurité, IA, Musique"
 ---
 
 ## En bref

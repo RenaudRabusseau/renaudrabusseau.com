@@ -1,14 +1,5 @@
 ---
 title: "About"
-facts:
-  - label: "Location"
-    value: "Orléans, France"
-  - label: "Languages"
-    value: "EN / FR / ES / JP"
-  - label: "Studies"
-    value: "Licence (Mathematics / Economics)"
-  - label: "Interests"
-    value: "Economics, Cybersecurity, AI, Music"
 ---
 
 ## The short version

@@ -4,17 +4,6 @@
     <h1>{{ .Title }}</h1>
   </header>
 
-  {{ with .Params.facts }}
-    <aside class="about-facts">
-      {{ range . }}
-        <div class="fact">
-          <span class="fact-label">{{ .label }}</span>
-          <span class="fact-value">{{ .value }}</span>
-        </div>
-      {{ end }}
-    </aside>
-  {{ end }}
-
   <div class="page-content prose">
     {{ .Content }}
   </div>

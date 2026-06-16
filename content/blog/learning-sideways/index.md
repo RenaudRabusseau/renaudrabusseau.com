@@ -1,6 +1,6 @@
 ---
 title: "Learning Sideways: an Ode to Digression"
-date: 2026-04-24
+date: 2026-06-16
 slug: "learning-sideways"
 tags: ["career", "philosophy", "technology"]
 summary: "How poker taught me about variance, variance taught me about emotions, emotions taught me about metacognition, and metacognition is teaching me Fourier transforms. A case for following the thread wherever it goes."

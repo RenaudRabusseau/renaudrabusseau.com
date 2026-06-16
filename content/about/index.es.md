@@ -1,14 +1,5 @@
 ---
 title: "Sobre mí"
-facts:
-  - label: "Ubicación"
-    value: "Orléans, Francia"
-  - label: "Idiomas"
-    value: "ES / FR / EN / JP"
-  - label: "Estudios"
-    value: "Licenciatura (Matemáticas / Economía)"
-  - label: "Intereses"
-    value: "Economía, Ciberseguridad, IA, Música"
 ---
 
 ## En pocas palabras
