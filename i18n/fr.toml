@@ -10,17 +10,11 @@ other = "Blog"
 [nav_projects]
 other = "Projets"
 
-[nav_cv]
-other = "CV"
-
 [read_more]
 other = "Lire la suite"
 
 [back_to_blog]
 other = "Retour au blog"
-
-[download_cv]
-other = "Télécharger le CV"
 
 [minutes_read]
 one = "{{ .Count }} min de lecture"
@@ -50,14 +44,11 @@ other = "Projets"
 [view_on_github]
 other = "Voir sur GitHub"
 
-[cv_intro]
-other = "Plusieurs versions du CV sont disponibles selon le contexte professionnel."
-
 [footer_text]
 other = "Construit avec Hugo. Aucun framework n'a été maltraité lors de la création de ce site."
 
 [hero_intro]
-other = "Ancien traducteur/interprète professionnel en reconversion dans l'ingénierie électronique et la cybersécurité."
+other = "Ancien traducteur/interprète professionnel en reconversion dans l'économie."
 
 [posted_on]
 other = "Publié le"

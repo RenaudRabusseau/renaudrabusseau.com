@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Renaud Rabusseau</title>
-    <link>https://renaudrabusseau.com/fr/tags/ai/</link>
+    <link>http://localhost:1313/fr/tags/ai/</link>
     <description>Recent content in AI on Renaud Rabusseau</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://renaudrabusseau.com/fr/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Le Grand Filtre, c&#39;est nous : IA, capitalisme et le problème de coordination</title>
-      <link>https://renaudrabusseau.com/fr/blog/great-filter/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/fr/blog/great-filter/</guid>
-      <description>Et si le Grand Filtre n&amp;rsquo;était pas une barrière technologique mais un échec de coordination ? Réflexion sur le développement de l&amp;rsquo;IA, les incitations du marché et l&amp;rsquo;action collective.</description>
+      <title>Le paradoxe Glasswing : quand l&#39;entreprise d&#39;IA la plus responsable applique la recette la plus ancienne du capitalisme</title>
+      <link>http://localhost:1313/fr/blog/glasswing-paradox/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/glasswing-paradox/</guid>
+      <description>La diffusion restreinte de Claude Mythos par Anthropic est un acte de responsabilité sincère. C&amp;rsquo;est aussi un cours magistral de construction de monopole. Deux vérités contradictoires qui illustrent parfaitement la tension du secteur IA en 2026.</description>
     </item>
   </channel>
 </rss>

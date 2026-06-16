@@ -2,25 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Renaud Rabusseau</title>
-    <link>https://renaudrabusseau.com/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content in Accueil on Renaud Rabusseau</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://renaudrabusseau.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Personne ne pilote, tout le monde accélère</title>
-      <link>https://renaudrabusseau.com/fr/blog/nobodys-steering/</link>
+      <title>Le paradoxe Glasswing : quand l&#39;entreprise d&#39;IA la plus responsable applique la recette la plus ancienne du capitalisme</title>
+      <link>http://localhost:1313/fr/blog/glasswing-paradox/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/glasswing-paradox/</guid>
+      <description>La diffusion restreinte de Claude Mythos par Anthropic est un acte de responsabilité sincère. C&amp;rsquo;est aussi un cours magistral de construction de monopole. Deux vérités contradictoires qui illustrent parfaitement la tension du secteur IA en 2026.</description>
+    </item>
+    <item>
+      <title>Murs porteurs : dollar, dédollarisation et vernis qui craque pour l&#39;économie mondiale</title>
+      <link>http://localhost:1313/fr/blog/load-bearing-walls/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/load-bearing-walls/</guid>
+      <description>Mécanismes de la dette américaine, crise cachée de la dette chinoise, réalité de la dédollarisation et paradoxe des stablecoins. Ce que l&amp;rsquo;Europe devrait surveiller et ne surveille pas.</description>
+    </item>
+    <item>
+      <title>S&#39;adapter ou mourir : récit d&#39;une reconversion à 37 ans</title>
+      <link>http://localhost:1313/fr/blog/adapt-or-die/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/adapt-or-die/</guid>
+      <description>Quand l&amp;rsquo;IA ne menace plus seulement votre métier mais le détruit pour de bon. Récit d&amp;rsquo;un traducteur technique forcé de se réinventer.</description>
+    </item>
+    <item>
+      <title> IA et progrès technologique : y a-t-il un pilote dans l&#39;avion ?</title>
+      <link>http://localhost:1313/fr/blog/nobodys-steering/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/fr/blog/nobodys-steering/</guid>
-      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent structurellement la vitesse au détriment de la réflexion, et ce que cela signifie pour l&amp;rsquo;avenir de l&amp;rsquo;espèce.</description>
+      <guid>http://localhost:1313/fr/blog/nobodys-steering/</guid>
+      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent-ils la vitesse au détriment de la réflexion, et quelles sont les conséquences de cet état de fait pour l&amp;rsquo;avenir de notre espèce.</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>https://renaudrabusseau.com/fr/about/</link>
+      <link>http://localhost:1313/fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/fr/about/</guid>
-      <description>&lt;h2 id=&#34;en-bref&#34;&gt;En bref&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai 37 ans. J&amp;rsquo;ai été traducteur professionnel pendant quinze ans. Aujourd&amp;rsquo;hui, je me forme en électronique et cybersécurité industrielle. L&amp;rsquo;IA a transformé mon secteur, et plutôt que de m&amp;rsquo;accrocher à un métier en mutation, j&amp;rsquo;ai choisi d&amp;rsquo;arrêter de décrire les systèmes pour apprendre à les construire.&lt;/p&gt;&#xA;&lt;p&gt;Ce site est l&amp;rsquo;endroit où je réfléchis à voix haute sur ce qui me tient éveillé la nuit : la façon dont la technologie transforme nos sociétés, la direction que prend l&amp;rsquo;économie mondiale, ce que signifie reconstruire une carrière à mi-parcours, et pourquoi la curiosité est peut-être la compétence la plus sous-estimée du XXIe siècle.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/about/</guid>
+      <description>&lt;h2 id=&#34;en-bref&#34;&gt;En bref&lt;/h2&gt;&#xA;&lt;p&gt;Ancien traducteur/interprète professionnel, je suis actuellement en reconversion dans l&amp;rsquo;ingénierie électronique avec une spécialisation en cybersécurité. À 37 ans, j&amp;rsquo;ai traduit des documents techniques dans trois langues pendant une quinzaine d&amp;rsquo;années, après quoi l&amp;rsquo;intelligence artificielle a bouleversé mon métier et j&amp;rsquo;ai décidé d&amp;rsquo;arrêter de décrire les systèmes pour commencer à les construire.&lt;/p&gt;&#xA;&lt;p&gt;Ce site est une vitrine mais c&amp;rsquo;est aussi l&amp;rsquo;endroit où je réfléchis à voix haute sur les sujets qui me tiennent éveillé la nuit : comment la technologie transforme nos sociétés, quelle direction prend l&amp;rsquo;économie mondiale, comment reconstruire une carrière en partant de zéro à la moitié de sa vie, et pourquoi ma curiosité est peut-être mon plus grand atout en ce début de XXIe siècle.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

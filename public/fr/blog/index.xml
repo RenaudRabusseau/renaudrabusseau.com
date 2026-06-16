@@ -2,18 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Renaud Rabusseau</title>
-    <link>https://renaudrabusseau.com/fr/blog/</link>
+    <link>http://localhost:1313/fr/blog/</link>
     <description>Recent content in Blog on Renaud Rabusseau</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://renaudrabusseau.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Personne ne pilote, tout le monde accélère</title>
-      <link>https://renaudrabusseau.com/fr/blog/nobodys-steering/</link>
+      <title>Le paradoxe Glasswing : quand l&#39;entreprise d&#39;IA la plus responsable applique la recette la plus ancienne du capitalisme</title>
+      <link>http://localhost:1313/fr/blog/glasswing-paradox/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/glasswing-paradox/</guid>
+      <description>La diffusion restreinte de Claude Mythos par Anthropic est un acte de responsabilité sincère. C&amp;rsquo;est aussi un cours magistral de construction de monopole. Deux vérités contradictoires qui illustrent parfaitement la tension du secteur IA en 2026.</description>
+    </item>
+    <item>
+      <title>Murs porteurs : dollar, dédollarisation et vernis qui craque pour l&#39;économie mondiale</title>
+      <link>http://localhost:1313/fr/blog/load-bearing-walls/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/load-bearing-walls/</guid>
+      <description>Mécanismes de la dette américaine, crise cachée de la dette chinoise, réalité de la dédollarisation et paradoxe des stablecoins. Ce que l&amp;rsquo;Europe devrait surveiller et ne surveille pas.</description>
+    </item>
+    <item>
+      <title>S&#39;adapter ou mourir : récit d&#39;une reconversion à 37 ans</title>
+      <link>http://localhost:1313/fr/blog/adapt-or-die/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/adapt-or-die/</guid>
+      <description>Quand l&amp;rsquo;IA ne menace plus seulement votre métier mais le détruit pour de bon. Récit d&amp;rsquo;un traducteur technique forcé de se réinventer.</description>
+    </item>
+    <item>
+      <title> IA et progrès technologique : y a-t-il un pilote dans l&#39;avion ?</title>
+      <link>http://localhost:1313/fr/blog/nobodys-steering/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/fr/blog/nobodys-steering/</guid>
-      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent structurellement la vitesse au détriment de la réflexion, et ce que cela signifie pour l&amp;rsquo;avenir de l&amp;rsquo;espèce.</description>
+      <guid>http://localhost:1313/fr/blog/nobodys-steering/</guid>
+      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent-ils la vitesse au détriment de la réflexion, et quelles sont les conséquences de cet état de fait pour l&amp;rsquo;avenir de notre espèce.</description>
     </item>
   </channel>
 </rss>

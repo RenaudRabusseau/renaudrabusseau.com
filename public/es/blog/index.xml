@@ -2,18 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Renaud Rabusseau</title>
-    <link>https://renaudrabusseau.com/es/blog/</link>
+    <link>http://localhost:1313/es/blog/</link>
     <description>Recent content in Blog on Renaud Rabusseau</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://renaudrabusseau.com/es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nadie pilota, todos aceleran</title>
-      <link>https://renaudrabusseau.com/es/blog/nobodys-steering/</link>
+      <title>La paradoja Glasswing: cuando la empresa de IA más responsable aplica la receta más antigua del capitalismo</title>
+      <link>http://localhost:1313/es/blog/glasswing-paradox/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/glasswing-paradox/</guid>
+      <description>La difusión restringida de Claude Mythos por parte de Anthropic es un acto de responsabilidad sincero. También es una clase magistral de construcción de monopolio. Dos verdades contradictorias que ilustran a la perfección la tensión del sector IA en 2026.</description>
+    </item>
+    <item>
+      <title>Muros de carga: dólar, desdolarización y grietas en los cimientos de la economía mundial</title>
+      <link>http://localhost:1313/es/blog/load-bearing-walls/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/load-bearing-walls/</guid>
+      <description>Mecánica de la deuda estadounidense, crisis oculta de la deuda china, realidad de la desdolarización y paradoja de las stablecoins. Lo que Europa debería estar observando y no observa.</description>
+    </item>
+    <item>
+      <title>Adaptarse o morir: historia de una reconversión a los 37</title>
+      <link>http://localhost:1313/es/blog/adapt-or-die/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/adapt-or-die/</guid>
+      <description>Cuando la IA ya no solo amenaza tu oficio sino que lo destruye. Historia de un traductor técnico obligado a reinventarse.</description>
+    </item>
+    <item>
+      <title>IA y progreso tecnológico: ¿hay alguien al volante?</title>
+      <link>http://localhost:1313/es/blog/nobodys-steering/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/es/blog/nobodys-steering/</guid>
-      <description>La paradoja de Fermi como lente para entender la carrera de la IA. Por qué los sistemas competitivos recompensan estructuralmente la velocidad por encima de la reflexión, y qué significa esto para el futuro de la especie.</description>
+      <guid>http://localhost:1313/es/blog/nobodys-steering/</guid>
+      <description>La paradoja de Fermi como lente para analizar la carrera de la IA. ¿Por qué los sistemas competitivos recompensan la velocidad por encima de la reflexión, y cuáles son las consecuencias para el futuro de nuestra especie?</description>
     </item>
   </channel>
 </rss>

@@ -2,25 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on Renaud Rabusseau</title>
-    <link>https://renaudrabusseau.com/es/</link>
+    <link>http://localhost:1313/es/</link>
     <description>Recent content in Inicio on Renaud Rabusseau</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://renaudrabusseau.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nadie pilota, todos aceleran</title>
-      <link>https://renaudrabusseau.com/es/blog/nobodys-steering/</link>
+      <title>La paradoja Glasswing: cuando la empresa de IA más responsable aplica la receta más antigua del capitalismo</title>
+      <link>http://localhost:1313/es/blog/glasswing-paradox/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/glasswing-paradox/</guid>
+      <description>La difusión restringida de Claude Mythos por parte de Anthropic es un acto de responsabilidad sincero. También es una clase magistral de construcción de monopolio. Dos verdades contradictorias que ilustran a la perfección la tensión del sector IA en 2026.</description>
+    </item>
+    <item>
+      <title>Muros de carga: dólar, desdolarización y grietas en los cimientos de la economía mundial</title>
+      <link>http://localhost:1313/es/blog/load-bearing-walls/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/load-bearing-walls/</guid>
+      <description>Mecánica de la deuda estadounidense, crisis oculta de la deuda china, realidad de la desdolarización y paradoja de las stablecoins. Lo que Europa debería estar observando y no observa.</description>
+    </item>
+    <item>
+      <title>Adaptarse o morir: historia de una reconversión a los 37</title>
+      <link>http://localhost:1313/es/blog/adapt-or-die/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/adapt-or-die/</guid>
+      <description>Cuando la IA ya no solo amenaza tu oficio sino que lo destruye. Historia de un traductor técnico obligado a reinventarse.</description>
+    </item>
+    <item>
+      <title>IA y progreso tecnológico: ¿hay alguien al volante?</title>
+      <link>http://localhost:1313/es/blog/nobodys-steering/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/es/blog/nobodys-steering/</guid>
-      <description>La paradoja de Fermi como lente para entender la carrera de la IA. Por qué los sistemas competitivos recompensan estructuralmente la velocidad por encima de la reflexión, y qué significa esto para el futuro de la especie.</description>
+      <guid>http://localhost:1313/es/blog/nobodys-steering/</guid>
+      <description>La paradoja de Fermi como lente para analizar la carrera de la IA. ¿Por qué los sistemas competitivos recompensan la velocidad por encima de la reflexión, y cuáles son las consecuencias para el futuro de nuestra especie?</description>
     </item>
     <item>
       <title>Sobre mí</title>
-      <link>https://renaudrabusseau.com/es/about/</link>
+      <link>http://localhost:1313/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/es/about/</guid>
-      <description>&lt;h2 id=&#34;en-pocas-palabras&#34;&gt;En pocas palabras&lt;/h2&gt;&#xA;&lt;p&gt;Tengo 37 años. Fui traductor profesional durante quince años. Hoy me estoy formando en electrónica y ciberseguridad industrial. La IA transformó mi sector, y en lugar de aferrarme a una profesión en plena mutación, decidí dejar de describir los sistemas para aprender a construirlos.&lt;/p&gt;&#xA;&lt;p&gt;Este sitio es donde pienso en voz alta sobre lo que me quita el sueño: cómo la tecnología transforma nuestras sociedades, hacia dónde se dirige la economía mundial, qué significa reconstruir una carrera a mitad de camino, y por qué la curiosidad es quizás la habilidad más subestimada del siglo XXI.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description>&lt;h2 id=&#34;en-pocas-palabras&#34;&gt;En pocas palabras&lt;/h2&gt;&#xA;&lt;p&gt;Antiguo traductor/intérprete profesional, actualmente me estoy reconvirtiendo en ingeniería electrónica con especialización en ciberseguridad. A los 37 años, tras quince años traduciendo documentos técnicos en tres idiomas, la inteligencia artificial transformó mi oficio y decidí dejar de describir los sistemas para empezar a construirlos.&lt;/p&gt;&#xA;&lt;p&gt;Este sitio es un escaparate pero también el lugar donde reflexiono en voz alta sobre los temas que me quitan el sueño: cómo la tecnología transforma nuestras sociedades, qué dirección toma la economía mundial, cómo reconstruir una carrera partiendo de cero a mitad de la vida, y por qué mi curiosidad es quizás mi mayor baza en este inicio de siglo XXI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -27,19 +27,19 @@ enableRobotsTXT = true
     weight = 1
     title = "Renaud Rabusseau"
     [languages.en.params]
-      description = "Electronics | Cybersecurity | Linguistics | Systems Thinking"
+      description = "Economics | Linguistics | Systems Thinking"
   [languages.fr]
     languageName = "FR"
     weight = 2
     title = "Renaud Rabusseau"
     [languages.fr.params]
-      description = "Électronique | Cybersécurité | Linguistique | Pensée systémique"
+      description = "Économie | Linguistique | Pensée systémique"
   [languages.es]
     languageName = "ES"
     weight = 3
     title = "Renaud Rabusseau"
     [languages.es.params]
-      description = "Electrónica | Ciberseguridad | Lingüística | Pensamiento sistémico"
+      description = "Economía | Lingüística | Pensamiento sistémico"
 
 [menus]
   [[menus.main]]
@@ -58,10 +58,6 @@ enableRobotsTXT = true
     name = "Projects"
     pageRef = "/projects/"
     weight = 4
-  [[menus.main]]
-    name = "CV"
-    pageRef = "/cv/"
-    weight = 5
 
 [params]
   author = "Renaud Rabusseau"

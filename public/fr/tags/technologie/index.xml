@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologie on Renaud Rabusseau</title>
+    <link>http://localhost:1313/fr/tags/technologie/</link>
+    <description>Recent content in Technologie on Renaud Rabusseau</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/technologie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S&#39;adapter ou mourir : récit d&#39;une reconversion à 37 ans</title>
+      <link>http://localhost:1313/fr/blog/adapt-or-die/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/blog/adapt-or-die/</guid>
+      <description>Quand l&amp;rsquo;IA ne menace plus seulement votre métier mais le détruit pour de bon. Récit d&amp;rsquo;un traducteur technique forcé de se réinventer.</description>
+    </item>
+  </channel>
+</rss>

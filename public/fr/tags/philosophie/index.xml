@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophie on Renaud Rabusseau</title>
-    <link>https://renaudrabusseau.com/fr/tags/philosophie/</link>
+    <link>http://localhost:1313/fr/tags/philosophie/</link>
     <description>Recent content in Philosophie on Renaud Rabusseau</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://renaudrabusseau.com/fr/tags/philosophie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/tags/philosophie/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Personne ne pilote, tout le monde accélère</title>
-      <link>https://renaudrabusseau.com/fr/blog/nobodys-steering/</link>
+      <title> IA et progrès technologique : y a-t-il un pilote dans l&#39;avion ?</title>
+      <link>http://localhost:1313/fr/blog/nobodys-steering/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://renaudrabusseau.com/fr/blog/nobodys-steering/</guid>
-      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent structurellement la vitesse au détriment de la réflexion, et ce que cela signifie pour l&amp;rsquo;avenir de l&amp;rsquo;espèce.</description>
+      <guid>http://localhost:1313/fr/blog/nobodys-steering/</guid>
+      <description>Le paradoxe de Fermi comme grille de lecture de la course à l&amp;rsquo;IA. Pourquoi les systèmes compétitifs récompensent-ils la vitesse au détriment de la réflexion, et quelles sont les conséquences de cet état de fait pour l&amp;rsquo;avenir de notre espèce.</description>
     </item>
   </channel>
 </rss>
